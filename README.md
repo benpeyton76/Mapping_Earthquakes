@@ -1,6 +1,6 @@
 # Mapping Earthquakes
 
-## ***Purpose***
+## ***Purpose:***
 This module instructs how to:
 - Retrieve data from a GeoJSON file.
 - Make API requests to a server to host geographical maps.
