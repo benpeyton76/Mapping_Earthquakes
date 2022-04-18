@@ -1,4 +1,4 @@
-# Mapping Earthquakes
+# ***Mapping Earthquakes***
 
 ## ***Purpose:***
 This module instructs how to:
